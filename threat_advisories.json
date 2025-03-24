@@ -1,0 +1,5708 @@
+[
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "High",
+        "threat_type": "Zero-Day Vulnerability Exploitation",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1211",
+                "technique": "Exploitation for Defense Evasion"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.cybermaxx.com/resources/security-advisory-weekly-advisory-march-5th-2025/",
+            "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware-as-a-Service (RaaS)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1070",
+                "technique": "Indicator Removal"
+            },
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1082",
+                "technique": "System Information Discovery"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "TA0006",
+                "technique": "OS Credential Dumping: LSASS Memory"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.001",
+                "technique": "Command and Scripting Interpreter: PowerShell"
+            },
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "TA0008",
+                "technique": "Lateral movement"
+            },
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1567.002",
+                "technique": "Exfiltration Over Web Service: Exfiltration to cloud Storage"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique_id": "T1105",
+                "technique": "Ingress Tool Transfer"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1136.002",
+                "technique": "Create Account"
+            },
+            {
+                "tactic": "Impact",
+                "technique_id": "T1657",
+                "technique": "Data Encrypted for\n                        Impact"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://cyble.com/blog/medusa-ransomware-surges-as-fbi-share-insight/",
+            "https://www.security.com/threat-intelligence/medusa-ransomware-attacks",
+            "https://www.cisa.gov/news-events/alerts/2025/03/12/cisa-and-partners-release-cybersecurity-advisory-medusa-ransomware",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Remote Access Trojan (RAT)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1003",
+                "technique": "Credential Dumping"
+            },
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1082",
+                "technique": "System Information Discovery"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1115",
+                "technique": "Clipboard Data"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027",
+                "technique": "Obfuscated Files or Information"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://thehackernews.com/2025/03/microsoft-warns-of-stilachirat-stealthy.html",
+            "https://www.microsoft.com/en-us/security/blog/2025/03/17/stilachirat-analysis-from-system-reconnaissance-to-cryptocurrency-theft/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://cybersecuritynews.com/use-after-free-linux-kernel-vulnerability/",
+            "https://cybersecuritynews.com/use-after-free-linux-kernel-vulnerability/",
+            "https://linuxpatch.com/cve/CVE-2024-46782"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1005",
+                "technique": "Data from Local System"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.varutra.com/ctp/threatpost/postDetails/Adobe-Acrobat-Reader-Vulnerabilities-Allow-Attackers-to-Execute-Arbitrary-Code/eUFyQ1BNcTRzU3FPY3p4RmlUQzBFUT09",
+            "https://cybersecuritynews.com/adobe-acrobat-reader-vulnerabilities/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Cyber-Espionage, Unauthorized Network Access",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1078",
+                "technique": "Valid Accounts"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1505",
+                "technique": "Server Software Component"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/02/cisco-confirms-salt-typhoon-exploited.html",
+            " https://cyberscoop.com/cisco-talos-salt-typhoon-initial-access/",
+            "https://www.cybersecuritydive.com/news/attackers-exploiting-cisco-vulnerabilities-tied-to-salt-typhoon-campaign/740859/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Cyber-Espionage, Data Disruption",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Impact",
+                "technique_id": "T1485",
+                "technique": "Data Destruction"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.reuters.com/technology/cybersecurity/russia-conducted-mass-cyber-attack-ukraines-state-registries-deputy-pm-says-2024-12-19",
+            " https://therecord.media/cyberattack-on-ukraine-state-register-disrupts-real-estate-marriages",
+            " https://www.infosecurity-magazine.com/news/ukraine-state-registers-restored/",
+            " https://www.pravda.com.ua/eng/news/2025/01/9/7492731/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Malware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "User Execution: Malicious File",
+                "technique": "T1204.002"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1598",
+                "technique": "Phishing for Information"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1056",
+                "technique": "Input Capture"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique_id": "T1071.001",
+                "technique": "Application Layer Protocol: Web Protocols"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html",
+            " https://www.cyfirma.com/research/inside-firescam-an-information-stealer-with-spyware-capabilities/",
+            " https://www.darkreading.com/cyberattacks-data-breaches/firescam-android-spyware-campaign-significant-threat-worldwide",
+            " https://www.securityweek.com/firescam-android-malware-packs-infostealer-spyware-capabilities/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "Critical",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2024-0029",
+            " https://digital.nhs.uk/cyber-alerts/2024/cc-4588"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability(RCE)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.001",
+                "technique": "Command and Scripting Interpreter: PowerShell"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1036.005",
+                "technique": "Masquerading: Match Legitimate Name or Location"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.cve.org/CVERecord?id=CVE-2020-2883",
+            " https://www.zerodayinitiative.com/advisories/ZDI-20-504/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.cve.org/CVERecord?id=CVE-2025-24085",
+            " https://threatprotect.qualys.com/2025/01/28/apple-fixes-actively-exploited-zero-day-vulnerability-cve-2025-24085/",
+            " https://blog.barracuda.com/2025/01/30/cybersecurity-threat-advisory-apple-iOS-zero-day-vulnerability",
+            " https://nvd.nist.gov/vuln/detail/CVE-2025-24085"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "GREEN",
+        "criticality": "High",
+        "threat_type": "Zero-Day Vulnerability Exploitation",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1211",
+                "technique": "Exploitation for Defense Evasion"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://source.android.com/docs/security/bulletin/2025-03-01?",
+            "https://thehackernews.com/2025/03/googles-march-2025-android-security.html?",
+            "https://www.securityweek.com/google-patches-pair-of-exploited-vulnerabilities-in-android/?"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Phishing Campaign, Malware Distribution",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566.002",
+                "technique": "Phishing: Spear Phishing Link"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1204.002",
+                "technique": "User Execution: Malicious File"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/03/microsoft-warns-of-clickfix-phishing.html",
+            " https://www.gdatasoftware.com/blog/2025/03/38154-lummastealer-fake-recaptcha",
+            " https://www.eset.com/blog/business/lumma-stealer-a-fast-growing-infostealer-threat-1/",
+            " https://www.microsoft.com/en-us/security/blog/2025/03/13/phishing-campaign-impersonates-booking-com-delivers-a-suite-of-credential-stealing-malware/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Cyber Espionage",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027",
+                "technique": "Obfuscated Files or Information"
+            },
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1048.003",
+                "technique": "Exfiltration Over Unencrypted Non-C2 Protocol"
+            },
+            {
+                "tactic": "Impact",
+                "technique_id": "T1486",
+                "technique": "Data Encrypted for Impact"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027.011",
+                "technique": "Fileless Storage"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-espionage-targets-juniper-routers",
+            " https://www.crn.com/news/security/2025/5-things-to-know-about-china-linked-juniper-router-attacks",
+            " https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html",
+            " https://hackread.com/chinese-group-unc3886-backdoor-juniper-routers/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1048",
+                "technique": "Exfiltration Over Alternative Protocol"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a",
+            " https://therecord.media/texas-utility-firm-investigating-potential-data-leak-moveit-breach"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware-as-a-Service",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1204",
+                "technique": "User Execution"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027",
+                "technique": "Obfuscated Files or Information"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1082",
+                "technique": "System Information Discovery"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.csoonline.com/article/3810610/new-ransomware-group-funksec-is-quickly-gaining-traction.html",
+            " https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html",
+            " https://therecord.media/funksec-ransomware-using-ai-malware",
+            " https://research.checkpoint.com/2025/funksec-alleged-top-ransomware-group-powered-by-ai/",
+            " https://www.infosecurity-magazine.com/news/ransomware-record-high-december/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Malware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1129",
+                "technique": "Shared Modules"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1543",
+                "technique": "Create or Modify System Process"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploitation of public-facing applications"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://hivepro.com/threat-advisory/eagerbee-unmasked-sophisticated-malware-strikes-middle-east/",
+            " https://blog.fiscybersec.com/eagerbee-backdoor-a-major-threat-to-government-units-and-internet-service-providers-in-the-middle-east",
+            " https://undercodenews.com/eagerbee-backdoor-a-new-threat-targeting-isps-and-governments-in-the-middle-east/",
+            " https://socprime.com/blog/eagerbee-malware-detection/",
+            " https://cybersecuritynews.com/eagerbee-malware-attacking-government-entities/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware-as-a-Service (RaaS)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1003",
+                "technique": "OS Credential Dumping"
+            },
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1016",
+                "technique": "System Network Configuration Discovery"
+            },
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "T1021.001",
+                "technique": "Remote Services: Remote Desktop Protocol"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique_id": "T1071.004",
+                "technique": "Application Layer Protocol: DNS"
+            },
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1041",
+                "technique": "Exfiltration Over C2 Channel"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.sentinelone.com/blog/dragon-raas-pro-russian-hacktivist-group-aims-to-build-on-the-five-families-cybercrime-reputation/",
+            " https://cybersecuritynews.com/dragon-raas-leading-five-families-crimeware/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "Critical",
+        "threat_type": "Vulnerabilities (Remote Code Execution)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "T1210",
+                "technique": "Exploitation of Remote Services"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://nvd.nist.gov/vuln/detail/cve-2024-40711",
+            " https://www.sonicwall.com/blog/insecure-deserialization-in-veeam-backup-and-replication-cve-2024-40711",
+            " https://cybersecuritynews.com/critical-veeam-backup-replication-vulnerability/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.moxa.com/en/support/product-support/security-advisory/mpsa-241155-privilege-escalation-and-os-command-injection-vulnerabilities-in-cellular-routers%2C-secure-routers%2C-and-netwo",
+            " https://thehackernews.com/2025/01/moxa-alerts-users-to-high-severity.html",
+            " https://nvd.nist.gov/vuln/detail/CVE-2024-9138",
+            " https://nvd.nist.gov/vuln/detail/CVE-2024-9140"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Denial-of-Service",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Impact",
+                "technique_id": "T1499",
+                "technique": "Endpoint Denial of Service"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.trendmicro.com/en_us/research/25/a/what-we-know-about-cve-2024-49112-and-cve-2024-49113.html",
+            " https://www.sonicwall.com/blog/windows-ldap-dos-vulnerability-cve-2024-49113-what-you-need-to-know-and-tips-for-staying-protected",
+            " https://socprime.com/blog/cve-2024-49113-aka-ldapnightmare-detection"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1005",
+                "technique": "Data from Local System"
+            },
+            {
+                "tactic": "Impact",
+                "technique_id": "T1499",
+                "technique": "Endpoint Denial of Service"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://ubuntu.com/blog/rsync-remote-code-execution",
+            " https://www.kb.cert.org/vuls/id/952657",
+            " https://www.fortra.com/security/emerging-threats/multiple-vulnerabilities-impacting-rsync",
+            "https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html "
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "RED",
+        "criticality": "High",
+        "threat_type": "Supply Chain Attack",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1195",
+                "technique": "Supply Chain Compromise"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1078",
+                "technique": "Valid Accounts"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.kali.org/blog/about-the-xz-backdoor/",
+            "https://linuxsecurity.com/newsletters/linux-advisory-watch/linux-advisory-watch-april-12-2024",
+            "https://asec.ahnlab.com/en/79515/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1078",
+                "technique": "Valid Accounts"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://threatprotect.qualys.com/2025/02/07/simplehelp-remote-monitoring-and-management-multiple-vulnerabilities-cve-2024-57726-cve-2024-57727-cve-2024-57728/",
+            " https://www.horizon3.ai/attack-research/disclosures/critical-vulnerabilities-in-simplehelp-remote-support-software/",
+            " https://digital.nhs.uk/cyber-alerts/2025/cc-4623",
+            " https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1006",
+                "technique": "File and Directory Discovery"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.007",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1505.003",
+                "technique": "Server Software Component: Web Shell"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/01/unpatched-php-voyager-flaws-leave.html",
+            " https://securityaffairs.com/173646/hacking/php-package-voyager-flaws.html"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "Critical",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.greynoise.io/blog/active-exploitation-of-zero-day-zyxel-cpe-vulnerability-cve-2024-40891",
+            " https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html",
+            " https://www.cve.org/CVERecord?id=CVE-2024-40891"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Local File Inclusion",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution\u200b",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://nvd.nist.gov/vuln/detail/CVE-2025-1770",
+            " https://feedly.com/cve/CVE-2025-1770",
+            " https://www.cvedetails.com/cve/CVE-2025-1770/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "High",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1547",
+                "technique": "Boot or Logon Autostart Execution"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1211",
+                "technique": "Exploitation for Defense Evasion"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://nvd.nist.gov/vuln/detail/CVE-2024-49138",
+            " https://www.vicarius.io/vsociety/posts/cve-2024-49138-windows-common-log-file-system-driver-elevation-of-privilege-vulnerability-mitigation-script"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "GREEN",
+        "criticality": "LOW",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.007",
+                "technique": "Cross-site scripting (Javascript)"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.security-database.com/detail.php?alert=CVE-2025-2130",
+            "https://vuldb.com/?submit.511529",
+            "https://vuldb.com/?id.299050"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1195.002",
+                "technique": "Supply Chain Compromise: Package Management"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1072",
+                "technique": "Softwae Deployment Tools"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.itsecuritynews.info/over-43-million-python-installations-vulnerable-to-dangerous-code-execution-flaw/",
+            "https://gbhackers.com/over-43-million-python-installations-vulnerable/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Software Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1505",
+                "technique": "Server Software Component"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html",
+            "https://www.cisa.gov/news-events/alerts/2025/03/03/cisa-adds-five-known-exploited-vulnerabilities-catalog?"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1547",
+                "technique": "Boot or Logon Autostart Execution"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html",
+            "https://www.redpacketsecurity.com/babuk2-ransomware-victim-forvismazars-com-fr-mazars-fr-by-babuk-locker-2-0/",
+            " https://www.hendryadrian.com/ransom-forvismazars-com-fr-mazars-fr-by-babuk-locker-2-0/  "
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability(Remote Code Execution)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://securityonline.info/cve-2025-24813-flaw-in-apache-tomcat-exposes-servers-to-rce-data-leaks-update-immediately/",
+            "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html",
+            "https://cybersecuritynews.com/apache-tomcat-vulnerability-rce-attacks/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "N/A",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1047",
+                "technique": "Windows Management Instrumentation"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "T1210",
+                "technique": "Exploitation of Remote Services"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1133",
+                "technique": "External Remote Services"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1136",
+                "technique": "Create Account"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1602",
+                "technique": "Data from Configuration Repository"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1098",
+                "technique": "Account Manipulation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.forescout.com/blog/new-ransomware-operator-exploits-fortinet-vulnerability-duo/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "High",
+        "threat_type": "Zero-Day Vulnerability Exploitation",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1211",
+                "technique": "Exploitation for Defense Evasion"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.cybermaxx.com/resources/security-advisory-weekly-advisory-march-5th-2025/",
+            "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware-as-a-Service (RaaS)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1070",
+                "technique": "Indicator Removal"
+            },
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1082",
+                "technique": "System Information Discovery"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "TA0006",
+                "technique": "OS Credential Dumping: LSASS Memory"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.001",
+                "technique": "Command and Scripting Interpreter: PowerShell"
+            },
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "TA0008",
+                "technique": "Lateral movement"
+            },
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1567.002",
+                "technique": "Exfiltration Over Web Service: Exfiltration to cloud Storage"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique_id": "T1105",
+                "technique": "Ingress Tool Transfer"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1136.002",
+                "technique": "Create Account"
+            },
+            {
+                "tactic": "Impact",
+                "technique_id": "T1657",
+                "technique": "Data Encrypted for\n                        Impact"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://cyble.com/blog/medusa-ransomware-surges-as-fbi-share-insight/",
+            "https://www.security.com/threat-intelligence/medusa-ransomware-attacks",
+            "https://www.cisa.gov/news-events/alerts/2025/03/12/cisa-and-partners-release-cybersecurity-advisory-medusa-ransomware",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Remote Access Trojan (RAT)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1003",
+                "technique": "Credential Dumping"
+            },
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1082",
+                "technique": "System Information Discovery"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1115",
+                "technique": "Clipboard Data"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027",
+                "technique": "Obfuscated Files or Information"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://thehackernews.com/2025/03/microsoft-warns-of-stilachirat-stealthy.html",
+            "https://www.microsoft.com/en-us/security/blog/2025/03/17/stilachirat-analysis-from-system-reconnaissance-to-cryptocurrency-theft/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://cybersecuritynews.com/use-after-free-linux-kernel-vulnerability/",
+            "https://cybersecuritynews.com/use-after-free-linux-kernel-vulnerability/",
+            "https://linuxpatch.com/cve/CVE-2024-46782"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1005",
+                "technique": "Data from Local System"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.varutra.com/ctp/threatpost/postDetails/Adobe-Acrobat-Reader-Vulnerabilities-Allow-Attackers-to-Execute-Arbitrary-Code/eUFyQ1BNcTRzU3FPY3p4RmlUQzBFUT09",
+            "https://cybersecuritynews.com/adobe-acrobat-reader-vulnerabilities/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Cyber-Espionage, Unauthorized Network Access",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1078",
+                "technique": "Valid Accounts"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1505",
+                "technique": "Server Software Component"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/02/cisco-confirms-salt-typhoon-exploited.html",
+            " https://cyberscoop.com/cisco-talos-salt-typhoon-initial-access/",
+            "https://www.cybersecuritydive.com/news/attackers-exploiting-cisco-vulnerabilities-tied-to-salt-typhoon-campaign/740859/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Cyber-Espionage, Data Disruption",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Impact",
+                "technique_id": "T1485",
+                "technique": "Data Destruction"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.reuters.com/technology/cybersecurity/russia-conducted-mass-cyber-attack-ukraines-state-registries-deputy-pm-says-2024-12-19",
+            " https://therecord.media/cyberattack-on-ukraine-state-register-disrupts-real-estate-marriages",
+            " https://www.infosecurity-magazine.com/news/ukraine-state-registers-restored/",
+            " https://www.pravda.com.ua/eng/news/2025/01/9/7492731/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Malware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "User Execution: Malicious File",
+                "technique": "T1204.002"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1598",
+                "technique": "Phishing for Information"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1056",
+                "technique": "Input Capture"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique_id": "T1071.001",
+                "technique": "Application Layer Protocol: Web Protocols"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html",
+            " https://www.cyfirma.com/research/inside-firescam-an-information-stealer-with-spyware-capabilities/",
+            " https://www.darkreading.com/cyberattacks-data-breaches/firescam-android-spyware-campaign-significant-threat-worldwide",
+            " https://www.securityweek.com/firescam-android-malware-packs-infostealer-spyware-capabilities/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "Critical",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2024-0029",
+            " https://digital.nhs.uk/cyber-alerts/2024/cc-4588"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability(RCE)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.001",
+                "technique": "Command and Scripting Interpreter: PowerShell"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1036.005",
+                "technique": "Masquerading: Match Legitimate Name or Location"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.cve.org/CVERecord?id=CVE-2020-2883",
+            " https://www.zerodayinitiative.com/advisories/ZDI-20-504/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.cve.org/CVERecord?id=CVE-2025-24085",
+            " https://threatprotect.qualys.com/2025/01/28/apple-fixes-actively-exploited-zero-day-vulnerability-cve-2025-24085/",
+            " https://blog.barracuda.com/2025/01/30/cybersecurity-threat-advisory-apple-iOS-zero-day-vulnerability",
+            " https://nvd.nist.gov/vuln/detail/CVE-2025-24085"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "GREEN",
+        "criticality": "High",
+        "threat_type": "Zero-Day Vulnerability Exploitation",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1211",
+                "technique": "Exploitation for Defense Evasion"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://source.android.com/docs/security/bulletin/2025-03-01?",
+            "https://thehackernews.com/2025/03/googles-march-2025-android-security.html?",
+            "https://www.securityweek.com/google-patches-pair-of-exploited-vulnerabilities-in-android/?"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Phishing Campaign, Malware Distribution",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566.002",
+                "technique": "Phishing: Spear Phishing Link"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1204.002",
+                "technique": "User Execution: Malicious File"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/03/microsoft-warns-of-clickfix-phishing.html",
+            " https://www.gdatasoftware.com/blog/2025/03/38154-lummastealer-fake-recaptcha",
+            " https://www.eset.com/blog/business/lumma-stealer-a-fast-growing-infostealer-threat-1/",
+            " https://www.microsoft.com/en-us/security/blog/2025/03/13/phishing-campaign-impersonates-booking-com-delivers-a-suite-of-credential-stealing-malware/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Cyber Espionage",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027",
+                "technique": "Obfuscated Files or Information"
+            },
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1048.003",
+                "technique": "Exfiltration Over Unencrypted Non-C2 Protocol"
+            },
+            {
+                "tactic": "Impact",
+                "technique_id": "T1486",
+                "technique": "Data Encrypted for Impact"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027.011",
+                "technique": "Fileless Storage"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-espionage-targets-juniper-routers",
+            " https://www.crn.com/news/security/2025/5-things-to-know-about-china-linked-juniper-router-attacks",
+            " https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html",
+            " https://hackread.com/chinese-group-unc3886-backdoor-juniper-routers/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1048",
+                "technique": "Exfiltration Over Alternative Protocol"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a",
+            " https://therecord.media/texas-utility-firm-investigating-potential-data-leak-moveit-breach"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware-as-a-Service",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1204",
+                "technique": "User Execution"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027",
+                "technique": "Obfuscated Files or Information"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1082",
+                "technique": "System Information Discovery"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.csoonline.com/article/3810610/new-ransomware-group-funksec-is-quickly-gaining-traction.html",
+            " https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html",
+            " https://therecord.media/funksec-ransomware-using-ai-malware",
+            " https://research.checkpoint.com/2025/funksec-alleged-top-ransomware-group-powered-by-ai/",
+            " https://www.infosecurity-magazine.com/news/ransomware-record-high-december/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Malware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1129",
+                "technique": "Shared Modules"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1543",
+                "technique": "Create or Modify System Process"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploitation of public-facing applications"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://hivepro.com/threat-advisory/eagerbee-unmasked-sophisticated-malware-strikes-middle-east/",
+            " https://blog.fiscybersec.com/eagerbee-backdoor-a-major-threat-to-government-units-and-internet-service-providers-in-the-middle-east",
+            " https://undercodenews.com/eagerbee-backdoor-a-new-threat-targeting-isps-and-governments-in-the-middle-east/",
+            " https://socprime.com/blog/eagerbee-malware-detection/",
+            " https://cybersecuritynews.com/eagerbee-malware-attacking-government-entities/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware-as-a-Service (RaaS)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1003",
+                "technique": "OS Credential Dumping"
+            },
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1016",
+                "technique": "System Network Configuration Discovery"
+            },
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "T1021.001",
+                "technique": "Remote Services: Remote Desktop Protocol"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique_id": "T1071.004",
+                "technique": "Application Layer Protocol: DNS"
+            },
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1041",
+                "technique": "Exfiltration Over C2 Channel"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.sentinelone.com/blog/dragon-raas-pro-russian-hacktivist-group-aims-to-build-on-the-five-families-cybercrime-reputation/",
+            " https://cybersecuritynews.com/dragon-raas-leading-five-families-crimeware/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "Critical",
+        "threat_type": "Vulnerabilities (Remote Code Execution)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "T1210",
+                "technique": "Exploitation of Remote Services"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://nvd.nist.gov/vuln/detail/cve-2024-40711",
+            " https://www.sonicwall.com/blog/insecure-deserialization-in-veeam-backup-and-replication-cve-2024-40711",
+            " https://cybersecuritynews.com/critical-veeam-backup-replication-vulnerability/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.moxa.com/en/support/product-support/security-advisory/mpsa-241155-privilege-escalation-and-os-command-injection-vulnerabilities-in-cellular-routers%2C-secure-routers%2C-and-netwo",
+            " https://thehackernews.com/2025/01/moxa-alerts-users-to-high-severity.html",
+            " https://nvd.nist.gov/vuln/detail/CVE-2024-9138",
+            " https://nvd.nist.gov/vuln/detail/CVE-2024-9140"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Denial-of-Service",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Impact",
+                "technique_id": "T1499",
+                "technique": "Endpoint Denial of Service"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.trendmicro.com/en_us/research/25/a/what-we-know-about-cve-2024-49112-and-cve-2024-49113.html",
+            " https://www.sonicwall.com/blog/windows-ldap-dos-vulnerability-cve-2024-49113-what-you-need-to-know-and-tips-for-staying-protected",
+            " https://socprime.com/blog/cve-2024-49113-aka-ldapnightmare-detection"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1005",
+                "technique": "Data from Local System"
+            },
+            {
+                "tactic": "Impact",
+                "technique_id": "T1499",
+                "technique": "Endpoint Denial of Service"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://ubuntu.com/blog/rsync-remote-code-execution",
+            " https://www.kb.cert.org/vuls/id/952657",
+            " https://www.fortra.com/security/emerging-threats/multiple-vulnerabilities-impacting-rsync",
+            "https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html "
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "RED",
+        "criticality": "High",
+        "threat_type": "Supply Chain Attack",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1195",
+                "technique": "Supply Chain Compromise"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1078",
+                "technique": "Valid Accounts"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.kali.org/blog/about-the-xz-backdoor/",
+            "https://linuxsecurity.com/newsletters/linux-advisory-watch/linux-advisory-watch-april-12-2024",
+            "https://asec.ahnlab.com/en/79515/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1078",
+                "technique": "Valid Accounts"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://threatprotect.qualys.com/2025/02/07/simplehelp-remote-monitoring-and-management-multiple-vulnerabilities-cve-2024-57726-cve-2024-57727-cve-2024-57728/",
+            " https://www.horizon3.ai/attack-research/disclosures/critical-vulnerabilities-in-simplehelp-remote-support-software/",
+            " https://digital.nhs.uk/cyber-alerts/2025/cc-4623",
+            " https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1006",
+                "technique": "File and Directory Discovery"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.007",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1505.003",
+                "technique": "Server Software Component: Web Shell"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/01/unpatched-php-voyager-flaws-leave.html",
+            " https://securityaffairs.com/173646/hacking/php-package-voyager-flaws.html"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "Critical",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.greynoise.io/blog/active-exploitation-of-zero-day-zyxel-cpe-vulnerability-cve-2024-40891",
+            " https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html",
+            " https://www.cve.org/CVERecord?id=CVE-2024-40891"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Local File Inclusion",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution\u200b",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://nvd.nist.gov/vuln/detail/CVE-2025-1770",
+            " https://feedly.com/cve/CVE-2025-1770",
+            " https://www.cvedetails.com/cve/CVE-2025-1770/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "High",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1547",
+                "technique": "Boot or Logon Autostart Execution"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1211",
+                "technique": "Exploitation for Defense Evasion"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://nvd.nist.gov/vuln/detail/CVE-2024-49138",
+            " https://www.vicarius.io/vsociety/posts/cve-2024-49138-windows-common-log-file-system-driver-elevation-of-privilege-vulnerability-mitigation-script"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "GREEN",
+        "criticality": "LOW",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.007",
+                "technique": "Cross-site scripting (Javascript)"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.security-database.com/detail.php?alert=CVE-2025-2130",
+            "https://vuldb.com/?submit.511529",
+            "https://vuldb.com/?id.299050"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1195.002",
+                "technique": "Supply Chain Compromise: Package Management"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1072",
+                "technique": "Softwae Deployment Tools"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.itsecuritynews.info/over-43-million-python-installations-vulnerable-to-dangerous-code-execution-flaw/",
+            "https://gbhackers.com/over-43-million-python-installations-vulnerable/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Software Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1505",
+                "technique": "Server Software Component"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html",
+            "https://www.cisa.gov/news-events/alerts/2025/03/03/cisa-adds-five-known-exploited-vulnerabilities-catalog?"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1547",
+                "technique": "Boot or Logon Autostart Execution"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html",
+            "https://www.redpacketsecurity.com/babuk2-ransomware-victim-forvismazars-com-fr-mazars-fr-by-babuk-locker-2-0/",
+            " https://www.hendryadrian.com/ransom-forvismazars-com-fr-mazars-fr-by-babuk-locker-2-0/  "
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability(Remote Code Execution)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://securityonline.info/cve-2025-24813-flaw-in-apache-tomcat-exposes-servers-to-rce-data-leaks-update-immediately/",
+            "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html",
+            "https://cybersecuritynews.com/apache-tomcat-vulnerability-rce-attacks/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "N/A",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1047",
+                "technique": "Windows Management Instrumentation"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "T1210",
+                "technique": "Exploitation of Remote Services"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1133",
+                "technique": "External Remote Services"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1136",
+                "technique": "Create Account"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1602",
+                "technique": "Data from Configuration Repository"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1098",
+                "technique": "Account Manipulation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.forescout.com/blog/new-ransomware-operator-exploits-fortinet-vulnerability-duo/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "High",
+        "threat_type": "Zero-Day Vulnerability Exploitation",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1211",
+                "technique": "Exploitation for Defense Evasion"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.cybermaxx.com/resources/security-advisory-weekly-advisory-march-5th-2025/",
+            "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware-as-a-Service (RaaS)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1070",
+                "technique": "Indicator Removal"
+            },
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1082",
+                "technique": "System Information Discovery"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "TA0006",
+                "technique": "OS Credential Dumping: LSASS Memory"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.001",
+                "technique": "Command and Scripting Interpreter: PowerShell"
+            },
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "TA0008",
+                "technique": "Lateral movement"
+            },
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1567.002",
+                "technique": "Exfiltration Over Web Service: Exfiltration to cloud Storage"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique_id": "T1105",
+                "technique": "Ingress Tool Transfer"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1136.002",
+                "technique": "Create Account"
+            },
+            {
+                "tactic": "Impact",
+                "technique_id": "T1657",
+                "technique": "Data Encrypted for\n                        Impact"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://cyble.com/blog/medusa-ransomware-surges-as-fbi-share-insight/",
+            "https://www.security.com/threat-intelligence/medusa-ransomware-attacks",
+            "https://www.cisa.gov/news-events/alerts/2025/03/12/cisa-and-partners-release-cybersecurity-advisory-medusa-ransomware",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Remote Access Trojan (RAT)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1003",
+                "technique": "Credential Dumping"
+            },
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1082",
+                "technique": "System Information Discovery"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1115",
+                "technique": "Clipboard Data"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027",
+                "technique": "Obfuscated Files or Information"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://thehackernews.com/2025/03/microsoft-warns-of-stilachirat-stealthy.html",
+            "https://www.microsoft.com/en-us/security/blog/2025/03/17/stilachirat-analysis-from-system-reconnaissance-to-cryptocurrency-theft/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://cybersecuritynews.com/use-after-free-linux-kernel-vulnerability/",
+            "https://cybersecuritynews.com/use-after-free-linux-kernel-vulnerability/",
+            "https://linuxpatch.com/cve/CVE-2024-46782"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1005",
+                "technique": "Data from Local System"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.varutra.com/ctp/threatpost/postDetails/Adobe-Acrobat-Reader-Vulnerabilities-Allow-Attackers-to-Execute-Arbitrary-Code/eUFyQ1BNcTRzU3FPY3p4RmlUQzBFUT09",
+            "https://cybersecuritynews.com/adobe-acrobat-reader-vulnerabilities/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Cyber-Espionage, Unauthorized Network Access",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1078",
+                "technique": "Valid Accounts"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1505",
+                "technique": "Server Software Component"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/02/cisco-confirms-salt-typhoon-exploited.html",
+            " https://cyberscoop.com/cisco-talos-salt-typhoon-initial-access/",
+            "https://www.cybersecuritydive.com/news/attackers-exploiting-cisco-vulnerabilities-tied-to-salt-typhoon-campaign/740859/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Cyber-Espionage, Data Disruption",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Impact",
+                "technique_id": "T1485",
+                "technique": "Data Destruction"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.reuters.com/technology/cybersecurity/russia-conducted-mass-cyber-attack-ukraines-state-registries-deputy-pm-says-2024-12-19",
+            " https://therecord.media/cyberattack-on-ukraine-state-register-disrupts-real-estate-marriages",
+            " https://www.infosecurity-magazine.com/news/ukraine-state-registers-restored/",
+            " https://www.pravda.com.ua/eng/news/2025/01/9/7492731/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Malware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "User Execution: Malicious File",
+                "technique": "T1204.002"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1598",
+                "technique": "Phishing for Information"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1056",
+                "technique": "Input Capture"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique_id": "T1071.001",
+                "technique": "Application Layer Protocol: Web Protocols"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html",
+            " https://www.cyfirma.com/research/inside-firescam-an-information-stealer-with-spyware-capabilities/",
+            " https://www.darkreading.com/cyberattacks-data-breaches/firescam-android-spyware-campaign-significant-threat-worldwide",
+            " https://www.securityweek.com/firescam-android-malware-packs-infostealer-spyware-capabilities/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "Critical",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2024-0029",
+            " https://digital.nhs.uk/cyber-alerts/2024/cc-4588"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability(RCE)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.001",
+                "technique": "Command and Scripting Interpreter: PowerShell"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1036.005",
+                "technique": "Masquerading: Match Legitimate Name or Location"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.cve.org/CVERecord?id=CVE-2020-2883",
+            " https://www.zerodayinitiative.com/advisories/ZDI-20-504/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.cve.org/CVERecord?id=CVE-2025-24085",
+            " https://threatprotect.qualys.com/2025/01/28/apple-fixes-actively-exploited-zero-day-vulnerability-cve-2025-24085/",
+            " https://blog.barracuda.com/2025/01/30/cybersecurity-threat-advisory-apple-iOS-zero-day-vulnerability",
+            " https://nvd.nist.gov/vuln/detail/CVE-2025-24085"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "GREEN",
+        "criticality": "High",
+        "threat_type": "Zero-Day Vulnerability Exploitation",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1211",
+                "technique": "Exploitation for Defense Evasion"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://source.android.com/docs/security/bulletin/2025-03-01?",
+            "https://thehackernews.com/2025/03/googles-march-2025-android-security.html?",
+            "https://www.securityweek.com/google-patches-pair-of-exploited-vulnerabilities-in-android/?"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Phishing Campaign, Malware Distribution",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566.002",
+                "technique": "Phishing: Spear Phishing Link"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1204.002",
+                "technique": "User Execution: Malicious File"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/03/microsoft-warns-of-clickfix-phishing.html",
+            " https://www.gdatasoftware.com/blog/2025/03/38154-lummastealer-fake-recaptcha",
+            " https://www.eset.com/blog/business/lumma-stealer-a-fast-growing-infostealer-threat-1/",
+            " https://www.microsoft.com/en-us/security/blog/2025/03/13/phishing-campaign-impersonates-booking-com-delivers-a-suite-of-credential-stealing-malware/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Cyber Espionage",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027",
+                "technique": "Obfuscated Files or Information"
+            },
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1048.003",
+                "technique": "Exfiltration Over Unencrypted Non-C2 Protocol"
+            },
+            {
+                "tactic": "Impact",
+                "technique_id": "T1486",
+                "technique": "Data Encrypted for Impact"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027.011",
+                "technique": "Fileless Storage"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-espionage-targets-juniper-routers",
+            " https://www.crn.com/news/security/2025/5-things-to-know-about-china-linked-juniper-router-attacks",
+            " https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html",
+            " https://hackread.com/chinese-group-unc3886-backdoor-juniper-routers/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1048",
+                "technique": "Exfiltration Over Alternative Protocol"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a",
+            " https://therecord.media/texas-utility-firm-investigating-potential-data-leak-moveit-breach"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware-as-a-Service",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1204",
+                "technique": "User Execution"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1027",
+                "technique": "Obfuscated Files or Information"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1082",
+                "technique": "System Information Discovery"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.csoonline.com/article/3810610/new-ransomware-group-funksec-is-quickly-gaining-traction.html",
+            " https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html",
+            " https://therecord.media/funksec-ransomware-using-ai-malware",
+            " https://research.checkpoint.com/2025/funksec-alleged-top-ransomware-group-powered-by-ai/",
+            " https://www.infosecurity-magazine.com/news/ransomware-record-high-december/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Malware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1129",
+                "technique": "Shared Modules"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1543",
+                "technique": "Create or Modify System Process"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploitation of public-facing applications"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://hivepro.com/threat-advisory/eagerbee-unmasked-sophisticated-malware-strikes-middle-east/",
+            " https://blog.fiscybersec.com/eagerbee-backdoor-a-major-threat-to-government-units-and-internet-service-providers-in-the-middle-east",
+            " https://undercodenews.com/eagerbee-backdoor-a-new-threat-targeting-isps-and-governments-in-the-middle-east/",
+            " https://socprime.com/blog/eagerbee-malware-detection/",
+            " https://cybersecuritynews.com/eagerbee-malware-attacking-government-entities/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware-as-a-Service (RaaS)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Credential Access",
+                "technique_id": "T1003",
+                "technique": "OS Credential Dumping"
+            },
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1016",
+                "technique": "System Network Configuration Discovery"
+            },
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "T1021.001",
+                "technique": "Remote Services: Remote Desktop Protocol"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique_id": "T1071.004",
+                "technique": "Application Layer Protocol: DNS"
+            },
+            {
+                "tactic": "Exfiltration",
+                "technique_id": "T1041",
+                "technique": "Exfiltration Over C2 Channel"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.sentinelone.com/blog/dragon-raas-pro-russian-hacktivist-group-aims-to-build-on-the-five-families-cybercrime-reputation/",
+            " https://cybersecuritynews.com/dragon-raas-leading-five-families-crimeware/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "Critical",
+        "threat_type": "Vulnerabilities (Remote Code Execution)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "T1210",
+                "technique": "Exploitation of Remote Services"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://nvd.nist.gov/vuln/detail/cve-2024-40711",
+            " https://www.sonicwall.com/blog/insecure-deserialization-in-veeam-backup-and-replication-cve-2024-40711",
+            " https://cybersecuritynews.com/critical-veeam-backup-replication-vulnerability/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.moxa.com/en/support/product-support/security-advisory/mpsa-241155-privilege-escalation-and-os-command-injection-vulnerabilities-in-cellular-routers%2C-secure-routers%2C-and-netwo",
+            " https://thehackernews.com/2025/01/moxa-alerts-users-to-high-severity.html",
+            " https://nvd.nist.gov/vuln/detail/CVE-2024-9138",
+            " https://nvd.nist.gov/vuln/detail/CVE-2024-9140"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Denial-of-Service",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Impact",
+                "technique_id": "T1499",
+                "technique": "Endpoint Denial of Service"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.trendmicro.com/en_us/research/25/a/what-we-know-about-cve-2024-49112-and-cve-2024-49113.html",
+            " https://www.sonicwall.com/blog/windows-ldap-dos-vulnerability-cve-2024-49113-what-you-need-to-know-and-tips-for-staying-protected",
+            " https://socprime.com/blog/cve-2024-49113-aka-ldapnightmare-detection"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1005",
+                "technique": "Data from Local System"
+            },
+            {
+                "tactic": "Impact",
+                "technique_id": "T1499",
+                "technique": "Endpoint Denial of Service"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://ubuntu.com/blog/rsync-remote-code-execution",
+            " https://www.kb.cert.org/vuls/id/952657",
+            " https://www.fortra.com/security/emerging-threats/multiple-vulnerabilities-impacting-rsync",
+            "https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html "
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "RED",
+        "criticality": "High",
+        "threat_type": "Supply Chain Attack",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1195",
+                "technique": "Supply Chain Compromise"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1078",
+                "technique": "Valid Accounts"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.kali.org/blog/about-the-xz-backdoor/",
+            "https://linuxsecurity.com/newsletters/linux-advisory-watch/linux-advisory-watch-april-12-2024",
+            "https://asec.ahnlab.com/en/79515/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1078",
+                "technique": "Valid Accounts"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://threatprotect.qualys.com/2025/02/07/simplehelp-remote-monitoring-and-management-multiple-vulnerabilities-cve-2024-57726-cve-2024-57727-cve-2024-57728/",
+            " https://www.horizon3.ai/attack-research/disclosures/critical-vulnerabilities-in-simplehelp-remote-support-software/",
+            " https://digital.nhs.uk/cyber-alerts/2025/cc-4623",
+            " https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Discovery",
+                "technique_id": "T1006",
+                "technique": "File and Directory Discovery"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.007",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1505.003",
+                "technique": "Server Software Component: Web Shell"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://thehackernews.com/2025/01/unpatched-php-voyager-flaws-leave.html",
+            " https://securityaffairs.com/173646/hacking/php-package-voyager-flaws.html"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "Critical",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://www.greynoise.io/blog/active-exploitation-of-zero-day-zyxel-cpe-vulnerability-cve-2024-40891",
+            " https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html",
+            " https://www.cve.org/CVERecord?id=CVE-2024-40891"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Local File Inclusion",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution\u200b",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://nvd.nist.gov/vuln/detail/CVE-2025-1770",
+            " https://feedly.com/cve/CVE-2025-1770",
+            " https://www.cvedetails.com/cve/CVE-2025-1770/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "High",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1547",
+                "technique": "Boot or Logon Autostart Execution"
+            },
+            {
+                "tactic": "Defense Evasion",
+                "technique_id": "T1211",
+                "technique": "Exploitation for Defense Evasion"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            " https://nvd.nist.gov/vuln/detail/CVE-2024-49138",
+            " https://www.vicarius.io/vsociety/posts/cve-2024-49138-windows-common-log-file-system-driver-elevation-of-privilege-vulnerability-mitigation-script"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            },
+            {
+                "tactic": "",
+                "technique_id": "",
+                "technique": ""
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "GREEN",
+        "criticality": "LOW",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059.007",
+                "technique": "Cross-site scripting (Javascript)"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.security-database.com/detail.php?alert=CVE-2025-2130",
+            "https://vuldb.com/?submit.511529",
+            "https://vuldb.com/?id.299050"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1195.002",
+                "technique": "Supply Chain Compromise: Package Management"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1072",
+                "technique": "Softwae Deployment Tools"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.itsecuritynews.info/over-43-million-python-installations-vulnerable-to-dangerous-code-execution-flaw/",
+            "https://gbhackers.com/over-43-million-python-installations-vulnerable/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Software Vulnerability",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1505",
+                "technique": "Server Software Component"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html",
+            "https://www.cisa.gov/news-events/alerts/2025/03/03/cisa-adds-five-known-exploited-vulnerabilities-catalog?"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1566",
+                "technique": "Phishing"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1547",
+                "technique": "Boot or Logon Autostart Execution"
+            },
+            {
+                "tactic": "Privilege Escalation",
+                "technique_id": "T1068",
+                "technique": "Exploitation for Privilege Escalation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html",
+            "https://www.redpacketsecurity.com/babuk2-ransomware-victim-forvismazars-com-fr-mazars-fr-by-babuk-locker-2-0/",
+            " https://www.hendryadrian.com/ransom-forvismazars-com-fr-mazars-fr-by-babuk-locker-2-0/  "
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "AMBER",
+        "criticality": "HIGH",
+        "threat_type": "Vulnerability(Remote Code Execution)",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Execution",
+                "technique_id": "T1203",
+                "technique": "Exploitation for Client Execution"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://securityonline.info/cve-2025-24813-flaw-in-apache-tomcat-exposes-servers-to-rce-data-leaks-update-immediately/",
+            "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html",
+            "https://cybersecuritynews.com/apache-tomcat-vulnerability-rce-attacks/"
+        ],
+        "patch_details": "N/A"
+    },
+    {
+        "title": "THREAT ADVISORY",
+        "tlp": "N/A",
+        "criticality": "HIGH",
+        "threat_type": "Ransomware",
+        "affected_product": "N/A",
+        "cve": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "target_sector": "N/A",
+        "region": "N/A",
+        "executive_summary": "N/A",
+        "threat_profile": [
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1190",
+                "technique": "Exploit Public-Facing Application"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1047",
+                "technique": "Windows Management Instrumentation"
+            },
+            {
+                "tactic": "Execution",
+                "technique_id": "T1059",
+                "technique": "Command and Scripting Interpreter"
+            },
+            {
+                "tactic": "Lateral Movement",
+                "technique_id": "T1210",
+                "technique": "Exploitation of Remote Services"
+            },
+            {
+                "tactic": "Initial Access",
+                "technique_id": "T1133",
+                "technique": "External Remote Services"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1136",
+                "technique": "Create Account"
+            },
+            {
+                "tactic": "Collection",
+                "technique_id": "T1602",
+                "technique": "Data from Configuration Repository"
+            },
+            {
+                "tactic": "Persistence",
+                "technique_id": "T1098",
+                "technique": "Account Manipulation"
+            }
+        ],
+        "recommendations": [
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022",
+            "\u2022"
+        ],
+        "references": [
+            "https://www.forescout.com/blog/new-ransomware-operator-exploits-fortinet-vulnerability-duo/"
+        ],
+        "patch_details": "N/A"
+    }
+]
