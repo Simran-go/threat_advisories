@@ -1,0 +1,3329 @@
+[
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "FileHash-SHA256",
+        "indicator": "86362ac6d972b1b55f1f434811d014316196f0e193878d8270dae939efb25908",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "FileHash-SHA256",
+        "indicator": "c92b21bdb91fe4c0590212e650212528a1f608a2ea086ce5eb5ac6d05edc41f7",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "46.8.232.106",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "185.121.233.152",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "185.245.106.67",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "46.8.232.106",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "195.2.70.38",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "185.157.213.253",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "185.21.13.144",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "195.200.28.33",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "195.200.31.22",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "212.34.130.72",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "38.180.61.247",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "46.8.236.61",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "77.238.224.56",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "77.238.245.11",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "77.238.245.233",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bdcc6d3e9fb0c20b7b2299",
+        "pulse_name": "GhostSocks - Partner In Proxy",
+        "created": "2025-02-25T13:58:05.978000",
+        "type": "IPv4",
+        "indicator": "91.142.74.28",
+        "description": "GhostSocks is a Golang-based SOCKS5 backconnect proxy malware first identified in October 2023. It is primarily deployed alongside the LummaC2 information stealer and offered as Malware-as-a-Service. GhostSocks uses a relay-based C2 implementation with HTTP API, allowing attackers to route traffic through infected systems. The malware's integration with Lumma, including automatic provisioning and discounted pricing, enhances post-infection capabilities for credential abuse and anti-fraud bypassing. GhostSocks contains additional backdoor functionality, such as arbitrary command execution and credential modification. Its C2 infrastructure largely operates on VDSina (AS216071), a Russian-speaking server provider. The malware exemplifies the commodification of SOCKS5 backconnect malware in the criminal ecosystem, posing a significant threat to financial institutions and high-value targets.",
+        "tags": [
+            "lummac2",
+            "credential abuse",
+            "anti-fraud bypass",
+            "golang",
+            "backconnect proxy",
+            "c2 infrastructure",
+            "socks5",
+            "vdsina",
+            "malware-as-a-service",
+            "ghostsocks"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "CVE",
+        "indicator": "CVE-2023-20118",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-MD5",
+        "indicator": "094be0aaf13d2b42d50dcc6418507b78",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA1",
+        "indicator": "8a61be53e9fbc56f93eb7d1bf23b661a0ac41e58",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA256",
+        "indicator": "121969d72f8e6f09ad93cf17500c479c452e230e27e7b157d5c9336dff15b6ef",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA256",
+        "indicator": "13cd040a7f488e937b1b234d71a0126b7bc74367bf6538b6961c476f5d620d13",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA256",
+        "indicator": "1ca7262f91d517853a0551b14abb0306c4e3567e41b1e82a018f0aac718e499e",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA256",
+        "indicator": "464f29d5f496b4acffc455330f00adb34ab920c66ca1908eee262339d6946bcd",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA256",
+        "indicator": "80cbc316aa58f8be722fd26b3026f077e61c82398599f9f719eade4bcd98173e",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA256",
+        "indicator": "932b2545bd6e3ad74b82ca2199944edecf9c92ad3f75fce0d07e04ab084824d5",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA256",
+        "indicator": "a56da1901cf6cabf8e94755bc3bcfacb9b5164df8f241e8774b8865afd4656e9",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA256",
+        "indicator": "b3f0b226d45eb4af7f24e7a8d9f701b5b29c26326be0a507db171ad2aa1205c7",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "FileHash-SHA256",
+        "indicator": "eda7cc5e1781c681afe99bf513fcaf5ae86afbf1d84dfd23aa563b1a043cbba8",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "IPv4",
+        "indicator": "195.123.212.54",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "URL",
+        "indicator": "https://asustordownload.com:45674",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "URL",
+        "indicator": "https://largeroofs.top:58425",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "URL",
+        "indicator": "https://siotherlentsearsitech.shop:58425",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "URL",
+        "indicator": "https://ssofhoseuegsgrfnu.ru/inet_pton",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "aipricadd.top",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "asustordownload.com",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "centrequ.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "durianlink.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "firebasesafer.top",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "gardensc.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "headached.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "hitchil.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "icecreand.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "landim.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "largeroofs.top",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "logchim.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "longlog.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "nternetd.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "siotherlentsearsitech.shop",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "ssofhoseuegsgrfnu.ru",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd958b5dda19e4363aa95d",
+        "pulse_name": "PolarEdge: Unveiling an uncovered ORB network",
+        "created": "2025-02-25T10:03:55.448000",
+        "type": "domain",
+        "indicator": "suiteiol.cc",
+        "description": "An analysis of the PolarEdge backdoor and its associated botnet reveals a sophisticated cyber threat targeting various edge devices. The botnet exploits vulnerabilities in Cisco, Asus, QNAP, and Synology devices, using a TLS backdoor to establish control. Active since at least late 2023, PolarEdge has infected over 2,000 devices globally, with a significant presence in Asia and South America. The attackers employ complex infrastructure for payload delivery and command and control, utilizing multiple domains and IP addresses. While the botnet's ultimate purpose remains unclear, it's suspected to potentially use compromised devices as Operational Relay Boxes for launching offensive cyber attacks. The sophistication of the operation suggests skilled operators behind this extensive and well-coordinated threat.",
+        "tags": [
+            "qnap",
+            "polaredge",
+            "asus",
+            "cve-2023-20118",
+            "tls backdoor",
+            "infrastructure analysis",
+            "synology",
+            "edge devices",
+            "botnet",
+            "vulnerability exploitation",
+            "cipher_log",
+            "cisco"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "12283dad2bdc66190c2066ebe6cd2724",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "149111558c7e13161a79f2298a60e9a7",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "226ec9183675d061d2e8abe2744af583",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "331caace77d3b64a8df1acff70aa2711",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "34c06618b451905f5e522916bedba2c0",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "39a19854b28434165759cd6b086e6c82",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "42d885d2471ad204b5d5c9296628e1a7",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "47367d062c6dde014b83d15fc5732e66",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "4d342ebf77e8494673a59ff87ea0b052",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "5a1c4483f94b6bfbed6297e14b337507",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "5bd5e7fc447dfd0f0b7c9e92d9bc1f12",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "7b982048c82f98b3d17997158b12f50d",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "7f98c2234b12b9cb8f168caeee960b12",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "95ab3efc4cb12a648abc85103ac3682b",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "a0e79abaa76de1568b91d326aeb32ca6",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "adbec31b99db62835ca26a7db8ed43fe",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "b3164f0a23d66e068ce7501ad2a8e052",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "c4c8c2983ab1868b392baba272354db1",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "d6d31029a53f8184ff17e3e309a60cd1",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "d82134f1f19283f8596422d351895033",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "de8ad43785ebd525273375b4b4147f9d",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "e762d87c2cef969e311cd799e03b0d26",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "e82672d58e1ec06f358281fd7e40f41d",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "f13c35454382e19a87e4264ccd16d5f9",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "f4f890511a5e11c6ca8b1e2bc9788102",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "f69691d0d47514a3787d43a2667eea69",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-MD5",
+        "indicator": "fdedb6f024823d8dc5030d8b0c148208",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "0101afdf0bc5d34f8ff7f2b84cf0248a1459a437",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "032ab71031595d6f816317391c3a4d54898099a2",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "07d6b49584853428e6ccf8bb5894ca39b37810dc",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "0dd5f5407bf88085f245504009a41b74d69dbde5",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "12fa8e9d59fa9db2928be40880fc370b356b7e3e",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "185954e564c69821bec45ff3352b120fea0222b8",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "1c17ce7e8ceb1c263e6346da3f21b133cc00a2e8",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "2733b84d9ed9bacd3874912ebec1dac34a44f1bf",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "2863035efe7bbf253c4fcb549c4bf0838e1e8837",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "328c3b5633d149ee3516944d3b934892163c1533",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "51fc2fec225dd76b174948f9aca9d026a5f97402",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "5c4b229db1dbae5cae73cd85c7b646741baee360",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "742bfdda794126271061f66ad2e91d692b60e2cb",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "8120a7c21d4eeec25f4a31b77c3a648591811a21",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "829ec7f37826fcdb27b26b9080109ce7c75efa8a",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "86f45727ca71414ca1ca64233dcfe8306f0b07e7",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "8b0fa18b269afb4976f78840a35d0cbff9092774",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "8de0ff8003730f600be7147dbf964752385b74b6",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "945e4ba3ea729dd1d8db2f1588a698b08612827f",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "ae23fd05b3872c29081955730647df792b9040bc",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "c36220163bcb93c903901395f70eab046b0410bf",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "c99e59a29b9c18bb989beae459e87e293c57fef0",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "d3a05475ff6639072a71856c033ff6507ca9cd63",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "db0ab6f28a553e84d851edfabb67ef37220d9101",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "eaf29a791138cd9f7310497e6a48840959ce6d7a",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "f5aeaabd24d713847549ce2be3a4f445e5ac5939",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA1",
+        "indicator": "ff461b654a7f509ba6ce663c0dbaf3d19f875bd7",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "0e66d7ec29ad8b088971d337db79bc916c219e523bd538f5a9dc7e0179c2547a",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "15e272118e984d2bdeaec7e1f72a6568eb0a82e1d0431c5d824ced33120c706e",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "2074ec1d3f58b19bd398b45af71b9853d6c3a0fa7c7145d76208601cfb05d1d6",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "213ed93b19f0130313933a700cafbaa27bef8e1a60157b225959624a4c875068",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "25b6f65c07b83293958c6f1e36d053b1d39c5dde864fde5cfc1834ecca591139",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "2d3c7fbb4fba459808f20fdc293cdc09951110302111526bc467f84a6f82f8f6",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "2da901c7e1441286d7e90d6a9f114ebb020e56d6f2200ea68111a691f29ff71b",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "31adb4043339320c360d43686ace3736bac87df27dc309c7c544820acdb34a93",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "32c451737246a8343d7975c5d6372f885e376339683bcfef25107226b10e6290",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "445072e538481ea4d3b68474fdaf0a66d3c319bf17b5aa67762d2e8bbbc5c14c",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "4556d5d106adbd9e1c5627940bd2314ca59b2cc8c01359680ca70928b6bafc50",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "48f258037be0ffe663da3bcd47dba22094cc31940083d9e18a71882bdc1ecdb8",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "5207b0111dc5cc23da549559a8968ee36e39b5d8776e6f5b1e6bdc367937e7df",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "54ef199324122a373d4d5a1765565fc56a2781e7a6e622bd2a84a3dbac28031c",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "5536f773a5f358f174026758ffae165d3a94c9c6a29471385a46c1598cfb2ad4",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "5dff4297730bbc999d7e25f9bf596048bd39e0acf17d842c03e34415e61a1747",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "614d64e2128cd8fc169c27fe204b85bca59482d381ae1cbfe705498fe46b0a95",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "6166ef3871e1952b05bce5a08a1db685e27bd83af83b0f92af20139dc81a4850",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "62f43b9c64c262fb907a36f5d8af7d8e9515cabf3c5d2b522fe3e2d995056e90",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "67b1a2e2135e32521f5c73e609ea9b4880af7827e357e92689aa250d3849d7da",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "6986a9a81b945e9ccfc434287bd9efd1daacc616a3104d05fd810b33d4d5d3f2",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "6e71e6b3a56db2c349c19cb20e5bc1eb87f98bd61af27887e73935bed3c5e2ac",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "6ebe9d4cffadf2566a960067fc226739dd74f361dca0b0809df66f1c7bb8049d",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "70a5276147d9f07b886f8537c869d8983b75efaaffe47bdedaf1b5f4fbc8022f",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "7545ac54f4bdfe8a9a271d30a233f8717ca692a6797ca775de1b7d3eaab1e066",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "81ff16aedf9c5225ce8a03c0608cc3ea417795d98345699f2c240a0d67c6c33d",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "84f7ca5e09b2b3a4da145b1d43f23e0d3e93c208cd0f22b8b08efe5d4c45f38b",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "8d5b4082253df5256772f0578a7f568b123d50e615cd76b9530dd80b29cb326a",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "8f1b46d88c5aed8c653f64d69b3acf04837e8b0df2a3d282b265cea7da324ca2",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "901330243ef0f7f0aae4f610693da751873e5b632e5f39b98e3db64859d78cbc",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "92f765df46c598c0f25ad69e862711565c6c23845ce2e4967ddde39ee1dd6c1d",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "9f24f06f4b2341d285a5c3aca32b2992628b43a16ad8db65d73148d190942194",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "9fdbb9e0339723c090064c53e2233ff59f6af6a944d5dbfa856f9a7961081da5",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "a2065ea035c4e391c0fd897a932dcff34d2ccd34579844c732f3577bc443b196",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "a92b2727de7c14b63c50b7062b2fcf61098a5d4d8bf3f749444e72b0cfc45f2b",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "abd903bad26d190210954cac00f5d96d43fcb4a89823337e1669977b50a122f8",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "b419964f0f219394bf9c6d5a9aa904796b14fdb2fe62b7079bbd0a48f4e902f1",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "cbf556ebc3ed7d3d3ddcd399f1a1f4212251b151f52cdafc60c4676dc4df60ab",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "ce7a94842dab8193e49dc0cde2e7ba1444d447d62db10e46ef170914f657d1f5",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "d36c6ed9da54a00013cbefe05027126d414061c5fab6751a82e28de4a2d44226",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "d8f4ce58ecd7a79014f9f97998bc5d9ae4fa4616b6f023d7e42bd94f64776b4e",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "d92850cc929423eab1da0022a4d8cc8394d44f1b3efd581ff9473cd38e81d4c5",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "df1c6479002495d8d5b9cce0b0c333f4b653c78ac803ec4abd5031f920b3f1fa",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "e26d5e23bee9695b05323928f66cec4d969178ebfc00e9930b71c356c5d37167",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "ee4e724f76dbcce7cae2da7ece76312581199d02cfee92ddce9c5229e7f2ee5d",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "f06bd6e7a237c90800c09a584bd55ea5feaba92c29449c2bdfb8b93d0b830a78",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "f5ee9514446bde4267ac1abcc6944c4abdbb384f00c4c5b9ca2e5444332b0d97",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "f919634ac7e0877663fff06ea9e430b530073d6e79eee543d02331f4dff64375",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "f993e9a76b1a7a23443a6fa481bba54ec2ad97c4c30e2d7f753fc3d107b9653e",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "fa0834d1bfed5f3126549c5382ab0f4661a9acf10224ed06cdfa69b90d800283",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "FileHash-SHA256",
+        "indicator": "ff136fe84af8795f61581b70fbe2e9414785efa3c607fda5fcab90d54cd14c58",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "IPv4",
+        "indicator": "8.217.60.40",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd92f0915699a764c6c705",
+        "pulse_name": "Healthcare Malware Hunt, Part 1: Silver Fox APT Targets Philips DICOM Viewers",
+        "created": "2025-02-25T09:52:48.037000",
+        "type": "URL",
+        "indicator": "http://8.217.60.40:8917",
+        "description": "Forescout reportead a cyber attack by the Silver Fox APT group on Philips DICOM medical imaging software. The attackers exploited vulnerabilities in the software to gain unauthorized access to sensitive patient data and hospital networks.",
+        "tags": [
+            "apt",
+            "silverfox",
+            "healthcare",
+            "ics",
+            "ot",
+            "valleyrat"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-MD5",
+        "indicator": "825bab4fd9b73d70e8ac9b79126a85cd",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-SHA1",
+        "indicator": "0ea8246ebd864f36585fefb4f94c099c3c64b270",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-SHA256",
+        "indicator": "270fc72074c697ba5921f7b61a6128b968ca6ccbf8906645e796cfc3072d4c43",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-SHA256",
+        "indicator": "65a84f6a9b4ccddcdae812ab8783938e3f4c12cfba670131b1a80395710c6fb4",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-SHA256",
+        "indicator": "83d50fcf97b0c1ec3de25b11684ca8db6f159c212f7ff50c92083ec5fbd3a633",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-SHA256",
+        "indicator": "85a77f08fd66aeabc887cb7d4eb8362259afa9c3699a70e3b81efac9042bb255",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-SHA256",
+        "indicator": "a1b09720edcab4d396a53ec568fe6f4ab2851ad00c954255bf1a0c04a9d53d0a",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-SHA256",
+        "indicator": "bace40f886aac1bab03bf26f2f463ac418616bacc956ed97045b7c3072f02d6b",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-SHA256",
+        "indicator": "bf503b5eb456f74187a17bb8c08bccc9b3d91a7f0f6fd50110540b051510d1ca",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "FileHash-SHA256",
+        "indicator": "e1c86a578e8d0b272e2df2d6dd9033c842c7ab5b09cda72c588e0410dc3048f7",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "IPv4",
+        "indicator": "216.245.184.214",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bd2f08a42cda6ca5b61ecf",
+        "pulse_name": "Auto-Color: An Emerging and Evasive Linux Backdoor",
+        "created": "2025-02-25T02:46:32.217000",
+        "type": "IPv4",
+        "indicator": "65.38.121.64",
+        "description": "Auto-color is a newly discovered Linux malware that employs sophisticated evasion techniques. It renames itself to benign-looking filenames, hides remote C2 connections using advanced methods similar to Symbiote malware, and uses proprietary encryption for communication. The malware installs a malicious library implant to intercept system calls and conceal its network activity. It provides threat actors with full remote access to compromised machines and is difficult to remove. Auto-color primarily targets universities and government offices in North America and Asia. The malware's C2 protocol includes a simple handshake and encrypted messages for issuing commands. Its capabilities include file operations, network proxying, and creating reverse shells.",
+        "tags": [
+            "encryption",
+            "auto-color",
+            "linux",
+            "library implant",
+            "backdoor",
+            "government",
+            "c2",
+            "reverse shell",
+            "evasion",
+            "universities",
+            "proxy",
+            "symbiote"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bc93b2e9c1d45f56f8e90f",
+        "pulse_name": "Phishing Campaigns Targeting Higher Education Institutions",
+        "created": "2025-02-24T15:43:46.591000",
+        "type": "URL",
+        "indicator": "http://cutly.today/JNx0r7",
+        "description": "Since August 2024, there has been a significant increase in phishing attacks targeting U.S. universities. Three distinct campaigns have emerged, exploiting trust within academic institutions to deceive students, faculty, and staff. One campaign used compromised educational institutions to host Google Forms for phishing. Another involved cloning university login pages and re-hosting them on attacker-controlled infrastructure. A third campaign targeted staff and students in a two-step process, first phishing faculty credentials and then using compromised accounts to target students. These attacks aim to steal login credentials and financial information, often timed to coincide with key dates in the academic calendar. The campaigns employ various tactics to increase perceived legitimacy and perform payment redirection attacks.",
+        "tags": [
+            "google forms",
+            "social engineering",
+            "higher education",
+            "phishing",
+            "payment redirection",
+            "universities",
+            "business email compromise"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bc93b2e9c1d45f56f8e90f",
+        "pulse_name": "Phishing Campaigns Targeting Higher Education Institutions",
+        "created": "2025-02-24T15:43:46.591000",
+        "type": "URL",
+        "indicator": "http://kutly.win/Nyq0r4",
+        "description": "Since August 2024, there has been a significant increase in phishing attacks targeting U.S. universities. Three distinct campaigns have emerged, exploiting trust within academic institutions to deceive students, faculty, and staff. One campaign used compromised educational institutions to host Google Forms for phishing. Another involved cloning university login pages and re-hosting them on attacker-controlled infrastructure. A third campaign targeted staff and students in a two-step process, first phishing faculty credentials and then using compromised accounts to target students. These attacks aim to steal login credentials and financial information, often timed to coincide with key dates in the academic calendar. The campaigns employ various tactics to increase perceived legitimacy and perform payment redirection attacks.",
+        "tags": [
+            "google forms",
+            "social engineering",
+            "higher education",
+            "phishing",
+            "payment redirection",
+            "universities",
+            "business email compromise"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bc93b2e9c1d45f56f8e90f",
+        "pulse_name": "Phishing Campaigns Targeting Higher Education Institutions",
+        "created": "2025-02-24T15:43:46.591000",
+        "type": "domain",
+        "indicator": "cutly.today",
+        "description": "Since August 2024, there has been a significant increase in phishing attacks targeting U.S. universities. Three distinct campaigns have emerged, exploiting trust within academic institutions to deceive students, faculty, and staff. One campaign used compromised educational institutions to host Google Forms for phishing. Another involved cloning university login pages and re-hosting them on attacker-controlled infrastructure. A third campaign targeted staff and students in a two-step process, first phishing faculty credentials and then using compromised accounts to target students. These attacks aim to steal login credentials and financial information, often timed to coincide with key dates in the academic calendar. The campaigns employ various tactics to increase perceived legitimacy and perform payment redirection attacks.",
+        "tags": [
+            "google forms",
+            "social engineering",
+            "higher education",
+            "phishing",
+            "payment redirection",
+            "universities",
+            "business email compromise"
+        ],
+        "source": "AlienVault OTX"
+    },
+    {
+        "id": "67bc93b2e9c1d45f56f8e90f",
+        "pulse_name": "Phishing Campaigns Targeting Higher Education Institutions",
+        "created": "2025-02-24T15:43:46.591000",
+        "type": "domain",
+        "indicator": "kutly.win",
+        "description": "Since August 2024, there has been a significant increase in phishing attacks targeting U.S. universities. Three distinct campaigns have emerged, exploiting trust within academic institutions to deceive students, faculty, and staff. One campaign used compromised educational institutions to host Google Forms for phishing. Another involved cloning university login pages and re-hosting them on attacker-controlled infrastructure. A third campaign targeted staff and students in a two-step process, first phishing faculty credentials and then using compromised accounts to target students. These attacks aim to steal login credentials and financial information, often timed to coincide with key dates in the academic calendar. The campaigns employ various tactics to increase perceived legitimacy and perform payment redirection attacks.",
+        "tags": [
+            "google forms",
+            "social engineering",
+            "higher education",
+            "phishing",
+            "payment redirection",
+            "universities",
+            "business email compromise"
+        ],
+        "source": "AlienVault OTX"
+    }
+]
